@@ -5,3 +5,8 @@
 .task_desc {
   background-color: cornsilk;
 }
+
+.todo-list img {
+  width: 500px;
+  height: 300px;
+}
